@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 My name is Rei, I have a passion for coding and I enjoy learning about new things.
+
 🎮 I enjoy playing video games in my free time, as well as work on small coding projects.
 
 ### Education 🏫
